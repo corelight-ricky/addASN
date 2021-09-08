@@ -1,4 +1,1 @@
-# addASN
-# addASN
-# addASN
-# addASN
+# Jamey's addASN info into conn script
